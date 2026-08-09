@@ -1,0 +1,6 @@
+{
+  "name": "KisanDirect - Farmer-to-Seller Marketplace",
+  "description": "Direct agricultural marketplace connecting farmers with vegetable sellers, featuring AI crop diagnosis, price prediction, multi-language support, and live mandi prices.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
